@@ -10,3 +10,7 @@ Features:
 - Plotting Graphs
 - Univarite Linear Regression 
 - Multivarite Linear Regression
+
+
+## Kaggle Link:
+https://www.kaggle.com/ysthehurricane/interactions-term-in-multiple-linear-regression-r
